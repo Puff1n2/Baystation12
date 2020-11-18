@@ -15,7 +15,7 @@
 	warmup_time = 5
 	current_location = "nav_scgpatrol_start"
 	range = 2
-	shuttle_area = list(/area/ship/patrol,
+	shuttle_area = list(/area/ship/patrol/operations_center,
 						/area/ship/patrol/armory,
 						/area/ship/patrol/crew,
 						/area/ship/patrol/medbay,
